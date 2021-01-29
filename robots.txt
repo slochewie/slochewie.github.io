@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://cms.smarttech.design/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
